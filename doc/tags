@@ -1,0 +1,10 @@
+vullScreen	vullScreen.txt	/*vullScreen*
+vullscreen-contents	vullScreen.txt	/*vullscreen-contents*
+vullscreen-custom	vullScreen.txt	/*vullscreen-custom*
+vullscreen-description	vullScreen.txt	/*vullscreen-description*
+vullscreen-installation	vullScreen.txt	/*vullscreen-installation*
+vullscreen-installation:manual	vullScreen.txt	/*vullscreen-installation:manual*
+vullscreen-installation:pathogen	vullScreen.txt	/*vullscreen-installation:pathogen*
+vullscreen-installation:vundle	vullScreen.txt	/*vullscreen-installation:vundle*
+vullscreen-notes	vullScreen.txt	/*vullscreen-notes*
+vullscreen-usage	vullScreen.txt	/*vullscreen-usage*
