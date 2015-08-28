@@ -1,29 +1,3 @@
-This is a mirror of http://www.vim.org/scripts/script.php?script_id=5018
+This script has been renamed to vullScreen.
 
-Vull..what?
-*************
-Nothing fancy here (Except the strange name), vullScreen is a small vim plugin that allows you to toggle Vim in full-screen mode on GNU/Linux.
-
-I'm talking about a real full-screen mode, no menu and no toolbars as shown in the following gif.
-https://raw.githubusercontent.com/KabbAmine/vullScreen.vim/master/.img/vullScreen.gif
-
-To get the last version or to have more informations check the github repo > https://github.com/KabbAmine/vullScreen.vim
-Don't forget to rate it if you find it useful ( Or useless ;) ). 
-
-How to use?
-***************
-With the command:
-
-    :VullScreen
-
-Or using the key `<F11>` in both *NORMAL* and *INSERT* mode.
-
-Why F11?
-************
-Because its nice and common to a lot of programs, but if you want to change it to something else simply add to your `vimrc`:
-   
-    let g:vullscreen_key = '<SOMETHING ELSE>'
-
-Notes
-*******
-You don't really need this plugin if you're using Vim on a terminal (The full-screen option is included in most graphical terminals).
+http://github.com/vim-scripts/vullScreen
